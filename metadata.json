@@ -1,0 +1,5 @@
+{
+  "name": "QuantMatrix AI",
+  "description": "A production-grade AI-native quantitative research and trading platform MVP. Features strategy IDE, backtesting visualization, and AutoML factor mining interface.",
+  "requestFramePermissions": []
+}
